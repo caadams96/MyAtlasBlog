@@ -40,6 +40,7 @@ export default function Component(props) {
           summary={summary}
           title={title}
         />
+        <br></br>
         <div className="container">
           <ContentWrapper content={contentArea} />
         </div>
