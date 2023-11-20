@@ -34,6 +34,7 @@ export default function Component(props) {
       <Header menuItems={primaryMenu} />
 
       <Main>
+        <h1>THIS IS A TEMPLATE</h1>
         <EntryHeader title={title} />
         <ProjectHeader
           image={featuredImage?.node}
